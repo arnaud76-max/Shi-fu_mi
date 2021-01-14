@@ -103,8 +103,8 @@ while (nbr_round < user_nbr_round):
         nbr_round = nbr_round + 1
         print('Manche numéro', nbr_round, 'sur' ,user_nbr_round)
 
-        print('Tu as' , user_score, 'points')
-        print("L'ordi a' , cp_score, 'points")
+        print("Tu as" , user_score, "points")
+        print("L'ordi a" , cp_score, "points")
 
 
 # In[ ]:
