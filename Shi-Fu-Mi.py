@@ -57,7 +57,7 @@ while (nbr_round < user_nbr_round):
                  user_score = user_score + 1 
                     
         elif(cp_choice =='lézard' and user_choice == "spock"):
-                 print('L\'ordi vous avez empoisonné ')
+                 print("L'ordi vous a empoisonné ")
                  user_score = user_score + 1 
                     
         elif(user_choice =='pierre' and cp_choice == "lézard"):
